@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two remarkable letters concerning the Kings correspondence with the Irish rebels. The first by Digby in the Kings name to the Irish Commisioners. The second from the Lord Muskery one of those Commissioners in answer to Digby. Also a full state of the Irish negotiation at Oxford now treated, set forth in the rebels propositions, and the Kings particular concessions. Published according to order.</title>
+            <author>Bristol, George Digby, Earl of, 1612-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77534</idno>
+            <idno type="STC">Wing B4785</idno>
+            <idno type="STC">Thomason E300_8</idno>
+            <idno type="STC">ESTC R200255</idno>
+            <idno type="EEBO-CITATION">99861061</idno>
+            <idno type="PROQUEST">99861061</idno>
+            <idno type="VID">113189</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77534)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113189)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 49:E300[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two remarkable letters concerning the Kings correspondence with the Irish rebels. The first by Digby in the Kings name to the Irish Commisioners. The second from the Lord Muskery one of those Commissioners in answer to Digby. Also a full state of the Irish negotiation at Oxford now treated, set forth in the rebels propositions, and the Kings particular concessions. Published according to order.</title>
+                  <author>Bristol, George Digby, Earl of, 1612-1677.</author>
+                  <author>Clancarty, Donogh MacCarty, Earl of, 1594-1665.</author>
+                  <author>Bristol, George Digby, Earl of, 1612-1677. Two letters of his sacred Majesty.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F. Neile, dwelling in Aldersgate-street.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first letter is the same as the first printed in "Two letters of his sacred Majesty" (Wing C2851), but the word "Rebels" is here omitted wherever it occurs in the letter.</note>
+                  <note>Annotation on Thomason copy: "7bre [i.e. September]: 9th"; bound with items from September, and dated by Madan thus, but Thomason catalogue lists under October].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649. --  Correspondence --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113189:1"/>
+            <p>Two Remarkable LETTERS Concerning the KINGS Correſpondence with the <hi>Iriſh</hi> REBELS. The firſt by <hi>Digby</hi> in the KINGS Name to the <hi>Iriſh</hi> Commiſſioners. The ſecond from the Lord <hi>Muſkery</hi> one of thoſe Commiſsioners in Anſwer to <hi>Digby</hi>. Alſo a full ſtate of the <hi>Iriſh</hi> Negotiation at <hi>Oxford</hi> now treated, ſet forth in the <hi>Rebels</hi> Propoſitions, and the Kings particular Conceſſions.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>LONDON: Printed by <hi>F. Neile,</hi> dwelling in Alderſgate-ſtreet. 1645.</p>
+            <pb facs="tcp:113189:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <div type="letter">
+               <pb n="1" facs="tcp:113189:2"/>
+               <opener>
+                  <salute>My Lords and Gentlemen:</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">H</seg>Is Majeſty having long expected a concluſion of a happie peace within your Kingdom, and his Affairs having highly ſuffered by the failing of his Expectations from thence, cannot chooſe but wonder what the cauſe is of it: calling to mind thoſe fair profeſſions and promiſes which you made unto him, when you were imployed here as Agents. And knowing well what power and Inſtructions he hath long ſince given my Lord Lieutenant to comply with you for your ſatisfaction (as farre forth, as with Reaſon or Honor his Majeſty could in civill things, or with Prudence, or Conſcience in mat<g ref="char:EOLhyphen"/>ters of Religion) and in the latter, as to the utmoſt of what, for any wordly conſideration, he will ever be induced to) ſo did he conceive nothing leſſe, then (what you declared unto him) you were perſwaded the Catholicks would be ſatiſfied withall: Nay ought not in their own Intereſt to ſeek more in the preſent condition, his Majeſty was in, leſt further conceſſions might (by confirming former ſcandals caſt upon his Majeſty in matters of Religion) ſo <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to the hearts of his faithfull and loyal adherents, to make them abandon him: which as it would draw inevitable ruine, ſo were you rightly apprehenſive that when the (<gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>) ſhould by that means have prevailed here, that muſt ſoon after bring a certain deſtruction upon your ſelves. What the change of Principles or Reſolutions are, his Majeſty knows not: but he finds by the not concluding of a Peace, there, that your party (it ſeems) is not, ſatisfied with the utmoſt that his Majeſty can grant in Matters of Religion, that is, the taking away of the penall Laws againſt Roman-Ca<g ref="char:EOLhyphen"/>tholicks
+<pb n="2" facs="tcp:113189:3"/>
+within that Kingdom. And his Majeſtie here hears that you inſiſt upon the demands of Churches, for the pub<g ref="char:EOLhyphen"/>lick exerciſe of Religion, which is the occaſion that His Majesty hath commanded me to write thus frankly unto you, and to tell you, that he cannot beleeve it poſſible, that Rational and prudent men (had there been no Propoſitions made to the contrary) can inſiſt upon that which muſt needs be ſo deſtructive to his Majeſty at preſent, and to your ſelves in the conſequences of his ruine (that is) inevitably to be made a prey to the (<gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>) of theſe Kingdoms, or to a for<g ref="char:EOLhyphen"/>raigne Nation. Wherfore my Lords, and Gentlemen, to diſabuſe you, I am commanded by his Majeſtie to declare unto you, that were the Conditions of his Affairs much more deſperate, then they are, he would never redeem them by any conceſsion of ſo much wrong both to his Honor, and Conſcience. It is for the defence of his Religion principal<g ref="char:EOLhyphen"/>ly, that he hath undergone the extremities of war here. And he would never Redeem his Crown by ratifying that there. So that to deal clearly with you, as you may be happie your<g ref="char:EOLhyphen"/>ſelves, and be happie Inſtruments of his Majeſties reſtoring, if you would be contented with Reaſon, and give him that ſpeedie aſsiſtance, which you well may: ſo if nothing will content you but what muſt wound his Honor and Conſci<g ref="char:EOLhyphen"/>ence, you muſt expect, howſoever his Condition is, and how deteſtable ſoever the (<gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>) of his Kingdom are to him, he will in that point joyn with them, the Scots, or with any of the Proteſtant Religion, rather then do the leaſt Act, that may hazard that Religion, in which, and for which, he will live, and die. Having ſaid thus much by his Majeſties command I have no more to adde, but that I ſhall think my ſelf very happy if this take any ſuch effect, as may tend to the peace of that Kingdom, and make me</p>
+               <closer>
+                  <signed>Your Affectionate humble Servant, GEO: DIGBIE.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="3" facs="tcp:113189:3"/>
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>VVE have here received your laſt of this <hi>July</hi> inſtant, wher<g ref="char:EOLhyphen"/>by we underſtand the Kings utmoſt reſolution concern<g ref="char:EOLhyphen"/>ing the free uſe of our Religion in this Kingdom. What publick Anſwer will be returned to it, I cannot tell as yet: but I in the meantime hold it my dutie to pre-acquaint your Lordſhip with the inclinations of the people, and the very firſt motions, which are likely to ſway the judgements, and reſolutions of our wiſeſt Patriots. This I hope your Lordſhip will accept of as an argument of my affection to your ſelf, and make uſe of as a point of zeal to his Majeſties ſervice. My Lord, tis great matter of amazement to the vulgar amongſt us, to hear, <hi>That His Majeſtie does principally undergo theſe extremities of warre for defence of the Proteſtant Pro<g ref="char:EOLhyphen"/>feſſion: and that He will rather forfeit His Crown, then ratifie the Ca<g ref="char:EOLhyphen"/>tholick Faith in</hi> Ireland, <hi>or do any the leaſt act that might hazard that Religion, in which, and for which, He is prepared to live, and die.</hi> If His Majeſtie had inſiſted onely upon maximes of Honor, or publick utility (though they do not hold either of them really valid in this caſe) things would have been far more eaſily di<g ref="char:EOLhyphen"/>geſted: but when Pleas of Conſcience are ſo much preſſed, divers that pretend to much reaſon here ſeem to be exceedingly ſcan<g ref="char:EOLhyphen"/>daliz'd. For as for matter of utilitie, His Majeſtie (it ſhould ſeem) has waighd ſtrictly in the ſcoles, as well all his Catholicks in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> and elſewhere, as that part of Proteſtants which adheres to Him in <hi>England,</hi> and <hi>Scotland:</hi> and that party of Proteſtants in value (as He diſtinguiſhes) overpoizes the Catholicks: This is a thing that makes them wonder at his ſcoles, or ſuſpect his eyes, and ſenſes. For tis ſuppoſ'd here to be out of all queſtion, that if the King did not declare himſelf ſo pendulous, and equilibrious betwixt Catholicks, and Proteſtants, thoſe ſupplies which He would receive from Catholicks would far out-vie all thoſe of the Proteſtants, and put the difference beyond all further diſpute. Next, they take to heart matter of Honor, and how (ſay they) can He expect more Honor in the eyes of a poore part of Prote<g ref="char:EOLhyphen"/>ſtants by being ſoyled and kept in miſerie, as He now is; then in
+<pb n="4" facs="tcp:113189:4"/>
+the eyes of all the chief Countreys of <hi>Europe</hi> by prevailing, and over-bearing thoſe wretched Round-heads which He now ſo much profeſſes to deteſt? You will ſay, his faith is more ſtrongly ingaged in Honor to thoſe Proteſtants which now follow Him to protect them, then to the Queen to defend thoſe of her profeſſion: If this be ſo, we have not been kindly dealt withall, for either the King has profeſt more to the Queen, or the Queen (which has ſome influence upon his Honor) has profeſt more to us then was juſt for her to do in the Kings name. But the laſt, and chiefeſt con<g ref="char:EOLhyphen"/>ſideration is the conſideration of Conſcience: and this as was ſaid before perplexes moſt of all, and begets the moſt untoward Inter<g ref="char:EOLhyphen"/>pretations. For (ſay the people) theſe pretences of conſcience are either feined, or unfeined in His Majeſtie: if they be unfeined, then how ſhall our ſide ever truſt him? If Conſcience will not permit Him to grant us Churches now in his greateſt conflictations though to redeem his Crown, what will He grant us when he has no further uſe of us at all? And if for State reaſons, not known to all the world, He can now ſo treat millions of that Religion, which is ſo precious to Him; How can He want the like pretexts to op<g ref="char:EOLhyphen"/>preſſe us, whom He eſteems hereticall in ſo high a degree, when the face of things ſhall change?</p>
+               <p>Again, if theſe Pleas of Conſcience be feined: what ſide can ever truſt him at all? Tis ſafer for us to live under a King that is of any Religion which may limit and bind his conſcience with ſome certain Laws, whatſoever they be, then to ſerve a Maſter that either has no Religion, or no ſuch Religion as can hold his con<g ref="char:EOLhyphen"/>ſcience in any ſubjection: Tis probable the Proteſtants themſelves will agree to this, as well as Papiſts.</p>
+               <p>My Lord, the Iriſh have hitherto generally beleeved the King to be a Roman-Catholick in his heart, and only conſtrained to diſ<g ref="char:EOLhyphen"/>ſemble the ſame, and ſo the main current of his actions here have aſſured them: but now theſe profeſſions made ſo ſanctimoniouſly at ſuch a time of exigence, as this, give ſtronger aſſurance of the contrarie: and yet neither ſo can they be freed from all doubts and fluctuations. For (ſay they) can that conſcience, which checks not at the granting of a toleration without Churches by taking away all penall Laws, and allowing other great immunities, ſuffer ſuch ſhipwrack at our demands of Churches for the free exerciſe
+<pb n="5" facs="tcp:113189:4"/>
+of our Religion? we ſhould deal unfaithfully with ourſelves if we ſhould not acknowledge that the King in his Conceſſions already by granting us ſuch a ſhare in the Legiſlative, Military, and Judi<g ref="char:EOLhyphen"/>ciall power, and by taking away former penalties has condiſcend<g ref="char:EOLhyphen"/>ed to as much, as can truly conduce to the propagation of our Re<g ref="char:EOLhyphen"/>ligion: that which we requeſt further is but for the more eaſe, or pomp, or better accommodation of ſuch as profeſſe our Religion. This therfore creates the more intricacy in the caſe; and makes the matter more irreconcileable, when we behold that the comple<g ref="char:EOLhyphen"/>mental or ornamental part is abjured ſo ſolemnly as repugnant to conſcience, and yet the more ſubſtantiall, virtuall part is agreed to without reluctance. Thus as our doubts, ſo our fears multiply, for we well know, that if the King <hi>bona fide</hi> have ſo high an eſteem of his own Religion, He muſt have as low a one of ours; and the conſequence will be, when the tye of a promiſe ſhall hereafter come into competition with ſuch an eſteem, when it ſhall be diſpu<g ref="char:EOLhyphen"/>ted whether the Kings ingagement to us do in ſome degree em<g ref="char:EOLhyphen"/>peach, or hazard the Proteſtant Profeſſion, or no; and if it do, then whether ſuch an ingagement be reſcindible, or no: a Prote<g ref="char:EOLhyphen"/>ſtant Caſuiſt will eaſily unlooſe his Conſcience.</p>
+               <p>But the King threatens to joyn with the <hi>Scots,</hi> &amp;c. how odious ſoever, if we accept not of his Propoſitions without further debate. Surely (my Lord) if the King does joyn with the <hi>Scots,</hi> &amp;c. this Kingdom hopes to be otherwiſe protected; and if it were wholly expoſed to the mercy of the Proteſtants, yet it ſees not how it has merited to be cut off from all reconciliation, more then the King and his <hi>Oxford</hi> party has: nay it preſumes very far, that it ſhall give a better account for its purſuing its naturall intereſts, then ſuch, as have been more unnaturall, can.</p>
+               <p>In the laſt place (my Lord) wheras you ſeem to wonder at the <hi>Iriſh,</hi> as changed from their former aimes, and us that were Com<g ref="char:EOLhyphen"/>miſſioners, as tranſported beyond our former promiſes, and ex<g ref="char:EOLhyphen"/>preſſions. The Anſwer will be very ready. For had we received leſſe ſatisfaction in due ſeaſon, before we had expended ſo much blood, time, and treaſure in this warre, it had been equivalent to a greater proportion now given us: or had that been of grace gi<g ref="char:EOLhyphen"/>ven which the Sword has by its own dint gained, a charge of in<g ref="char:EOLhyphen"/>gratitude might have been laid upon us, if we had further ex<g ref="char:EOLhyphen"/>tended
+<pb n="6" facs="tcp:113189:5"/>
+our demands. But I ſhall not need to inlarge upon this Subject, or to repreſent things otherwiſe to your Lordſhip then a Letter will permit; if I ſhould, I ſhould ſeem to out-run your Lord<g ref="char:EOLhyphen"/>ſhips nimbler apprehenſion, or to utter my own conceits inſtead of the ſpeeches of the people. I am more afraid of prolixity, and therfore heartily wiſhing your Lordſhip may make good uſe of theſe Aviſoes, for the better mollifying of his Majeſtie, I kiſſe your hands, and aſſume the honour to liſt my ſelf,</p>
+               <closer>
+                  <salute>My Lord,</salute>
+                  <signed>Your humble Servant,
+Mu<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kery.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>To a Friend in the Countrey.</head>
+               <p>SIR, I have gotten Copies of two Letters, not yet divulged, which I here ſend you, as worthy of your peruſall. The firſt from <hi>Digby</hi> to the Rebels is true, and authentick; the other I ſuſpect to be counterfeited, but ſo as it comes very neer to truth. Out of both you will find what diſtance there is, and what has cauſed it, betwixt the King and his good Catholick Subjects of <hi>Ireland.</hi> They, as well as we of <hi>England,</hi> and <hi>Scotland,</hi> are liable to viciſſi<g ref="char:EOLhyphen"/>tudes in the Kings favour, according to turns of his endleſſe de<g ref="char:EOLhyphen"/>ſignes; They were monſtrous, prodigious, unparalell'd Traytors; They are now loving, loyall, good Subjects: but if they make not haſte to cut throats here, as well as they have done in <hi>Ireland,</hi> they may probably ere-long change their ſtyle again for that which we have now, and perhaps we may be reſtored to that which they have now. There's nothing impoſſible to a Proclamation dated at <hi>Oxford,</hi> if <hi>Montroſſe,</hi> do not hinder it. Neither of theſe Letters diſcover any thing to me: I alwayes apprehended what I here find: this onely I wonder at: The King ſtill takes no notice of that which is the Rebels true End, and Intent: nor do the Rebels of that which the King ſhoots at. Yet tis impoſſible that the King ſhould think the <hi>Iriſh</hi> cordially devoted either to the defending of Proteſtantiſme, or inlarging of Prerogative: and tis improbable now, they ſhould think the King to be in Arms for introducing of Popery, or eſtabliſhing their old Taniſtry, and other barbarous
+<pb n="7" facs="tcp:113189:5"/>
+cuſtomes. Both having contrary intentions, the King thinks to out wit the Iriſh, and this the Iriſh cannot be ignorant of; the Iriſh think as far to over<g ref="char:EOLhyphen"/>reach the King, and the King cannot but ſuſpect the ſame: yet ſtill in de<g ref="char:EOLhyphen"/>bates both proceed, and alledge other matter, whileſt in the mayn, they ſeem to make a <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> both in deceiving, and in being voluntarily deceived. This it is to forſake the beaten road of policie, and to wander in the blind mazes of ſubtilty, or rather perfidie: after all that ſea of Pro<g ref="char:EOLhyphen"/>teſtant blood which it has coſt the King to comply with Papiſts, now he is driven to a new conſultation, whether it be ſafer for him to comply any longer with them, or to joyn again with their oppoſites. The condi<g ref="char:EOLhyphen"/>tion of the Iriſh Papiſts alſo is but little better: for they to ingratiate with the King, have committed moſt execrable maſſacre upon the Iriſh Prote<g ref="char:EOLhyphen"/>ſtants, yet now at laſt they begin to find, that they have no more aſſurance of the King then we had. The Lord help us, and diſabuſe all that erre, and recall every one into the right path; further I will not foreſtall your judg<g ref="char:EOLhyphen"/>ment.</p>
+               <closer>
+                  <signed>I am yours to command,
+<hi>A. B.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <head>Poſtſcript.</head>
+                  <p>SIR, I have ſince thought good to ſend you alſo copies of the Rebels late Propoſiti<g ref="char:EOLhyphen"/>ons, and the Kings condiſcentions thereunto. Onely underſtand, they were inter<g ref="char:EOLhyphen"/>cepted about ſix months ſince, and I beleive the King hath ſince condiſcended to much more, for it hath been his fortune alwayes hitherto to be as humble a ſuitor to the Re<g ref="char:EOLhyphen"/>bels for good tearms, as we have been to him.</p>
+               </postscript>
+            </div>
+            <div type="document">
+               <head>The <hi>Propoſitions</hi> of the <hi>Roman-Catho<g ref="char:EOLhyphen"/>licks</hi> of <hi>Ireland,</hi> humbly preſented to his Sacred MAJESTIE, in purſuance of their <hi>Remonſtrance</hi> of grievances, and to be annexed to the ſaid <hi>REMONSTRANCE.</hi>
+               </head>
+               <p n="1">1. THat all Acts made againſt the profeſſors of the Roman Catholike faith, whereby any reſtraint, penalty, or incapacity may be laid upon any Roman Catholick within the Kingdom of Ireland may be re<g ref="char:EOLhyphen"/>pealed, and the ſaid Catholiques to be allowed the freedome of the Ro<g ref="char:EOLhyphen"/>man Catholike Religion.</p>
+               <p n="2">2. That your Majeſty be pleaſed to call a free Parliament in the ſaid Kingdome, to be held and continued as in the ſaid Remonſtrance is ex<g ref="char:EOLhyphen"/>preſſed. And the Statute of the tenth year of King <hi>Henry</hi> the ſeventh, cal<g ref="char:EOLhyphen"/>led
+<pb n="8" facs="tcp:113189:6"/>
+                  <hi>Poynings</hi> Act, and all Acts explaining or inlarging the ſame be ſuſpen<g ref="char:EOLhyphen"/>ded during that Parliament, for the ſpeedy ſettlement of the preſent af<g ref="char:EOLhyphen"/>fairs, and the repeal thereof to be all are further conſidered of.</p>
+               <p n="3">3. That all Acts and Ordinances made and paſſed in the now pre<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>end<g ref="char:EOLhyphen"/>ed Parliament in that Kingdom, ſince the ſeventh day of Auguſt, 1641. be clearly annulled and declared void, and taken off the <gap reason="illegible: blotted" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>les.</p>
+               <p n="4">4. That all Indictments; Attainders, Outlawries in the Kings <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or elſewhere, ſince the ſeventh day of Auguſt 1641. and all <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>rents, Grants, Leaſes, Cuſtodims<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Bonds, Recogni<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, and all <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Records, Act or Acts depending thereupon, or in prejudice of the ſaid Ca<g ref="char:EOLhyphen"/>tholikes, or any of them, be taken off the fyles, annulled and declared voyd; Firſt by your Majeſties Proclamation, and after by Act to be paſſed in the ſaid free Parliament.</p>
+               <p n="5">5. That in aſmuch as under colour of ſuch Outlawries, and Attainders, debts due unto the ſaid Catholiques, have been granted, levyed, and diſ<g ref="char:EOLhyphen"/>poſed of, and of the other ſide, that debts due upon the ſaid Catholicks, to thoſe of the adverſe partie, have been levyed and diſpoſed to publike uſe, that therefore all debts be by Act of Parliament mutually releaſed, notwithſtanding any Grant or diſpoſition.</p>
+               <p n="6">6. That the late Offices taken or found upon feigned or old titles ſince the yeare 1634. to intitle your Majeſty to ſeveral Counties in Connaught, <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>homond, and in the Counties of Jipperary, Lymmerick, Kilkenny, and Wickloe, be vacated, and taken off the fyle, and the Profeſſor ſetled and ſecured in their ancient eſtates by Act of Parliament. And that the like Act of limitation of your Majeſties title, for the ſecurity of the eſtates of your ſubjects of that Kingdom, be paſſed in the ſaid Parliament; as was enacted in the 21 year of his late Majeſties <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Kingdom.</p>
+               <p n="7">7. That all marks of incapacity impoſed upon the Natives of that Kingdom, to purchaſe on acquire Lands, Leaſes, Offices or Hereditaments be taken away by Act of Parliament, and the ſame to extend to the ſecu<g ref="char:EOLhyphen"/>ring of Purchaſe, or Leaſes, or Grants already made, and that for the edu<g ref="char:EOLhyphen"/>tion of youth, an Act be paſſed in the next Parliament, for the erecting of one or more Innes of Court, Univerſities Free and common ſchools.</p>
+               <p n="8">8. That the offices and places of Command, Honour, Profit, and <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, within that Kingdome, be conferred upon Roman Catho<gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in equality and indifferencie with your Majeſties other ſubjects.</p>
+               <p n="9">9. That the inſupportable oppreſſion of your ſubjects, by reaſon of the Court of Wards, and reſpit of Homage, be taken away; and a certain <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>venew, in lieu thereof ſetled upon your Majeſty, without diminution of your Majeſties profit.</p>
+               <p n="10">
+                  <pb n="9" facs="tcp:113189:6"/>10. That no Lord not eſtated in that Kingdom, or eſtated and not re<g ref="char:EOLhyphen"/>ſident, ſhall have note in the ſaid Parliament, by proxie or otherwiſe, and none admitted to the Houſe of Commons but ſuch as ſhall be eſtated and reſident in the Kingdome.</p>
+               <p n="11">11. That an Act be paſſed in the next Parliament declaratory, That the Parliament of Ireland is a free Parliament of it ſelf; independant of and not ſubordinate to the Parliament of England, and that the ſubjects, of Ireland are immediately ſubject to your Majeſty, as in night of your Crown. And that the Members of the ſaid Parliament of Ireland, and all other the ſubjects of Ireland are independant, and no way to be ordered or concluded by the Parliament of England, and are onely to be ordered and governed within that Kingdome by your Majeſty, and ſuch Gover<g ref="char:EOLhyphen"/>nours as are or ſhall be there appointed; and by the Parliament of that Kingdome, according to the lawes of the land.</p>
+               <p n="12">12. That the aſſumed power or juriſdiction in the Councell-Board of determining all manner of cauſes be limited to matter of State, and all Patents, eſtates, and Grants, illegally and extrajudicially avoyded there or elſewhere, be left in ſtate as before and the parties grieved their heirs or aſſignes till legall eviction.</p>
+               <p n="13">13. That the ſtatutes of the eleventh twelfth, or thirteenth year of Q. <hi>Elizabeth</hi> concerning ſtaple commodities be repealed reſerving unto his Majeſty lawfull and juſt pound age, and a book of rates to be ſetled by an indifferent Committee of both Houſes for all commodities.</p>
+               <p n="14">14. That inaſmuch as the long continuance of the chief Governor or Governors of that Kingdom in that place of ſo great eminence &amp; power, hath been a principall occaſion that much tyranny and oppreſſion hath been exerciſed upon the ſubjects of that Kingdom; That your Majeſty will be pleaſed to continue ſuch Governours hereafter but for three years. And that none once imployed therein, be appointed for the ſame again, untill the expiration of 6 years next after the end of the ſaid <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yeers. And that an Act paſſe to diſma<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble ſuch Governour or G<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> during their go<g ref="char:EOLhyphen"/>vernment, directly, or indirectly; in uſe, truſt, or other wiſe make any manner of purchaſe, or acquiſition of any Mannors, Lands, Tenements, or Hereditaments within that Kingdom, other then from your Majeſty; your Heirs or Succeſſors.</p>
+               <p n="15">15. That an Act may be paſſed in the next Parliament for the raiſing and <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing of Trained-Bands within the ſeverall Counties of that King<g ref="char:EOLhyphen"/>dome, aſwell to prevent forrain invaſions, as to render them the more ſer<g ref="char:EOLhyphen"/>viceable and ready for your Majeſties occaſions, as ſhall require.</p>
+               <p n="16">
+                  <pb n="8" facs="tcp:113189:7"/>16. That an Act of oblivion be paſſed in the next free Parliament, to extend to all your Majeſties ſaid Catholick ſubjects, and their adherent<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> for all manner of offences capitall, criminall, and perſonall: and the ſaid Act extend to all Goods and Chattels, cuſtomes, maiſne profits, prizes, ar<g ref="char:EOLhyphen"/>rears of Rent, taken, received, or incurred ſince this trouble.</p>
+               <p n="17">17 Foraſmuch as your Majeſties ſaid Catholick ſubjects have been taxed with many inhumane cruelties which they never committed, your Maje<g ref="char:EOLhyphen"/>ſties ſaid ſubjects therfore for their vindication, and to manifeſt to all the world their deſire to have ſuch heynous offences puniſhed, and the offen<g ref="char:EOLhyphen"/>ders brought to juſtice; do deſire that in the next Parliament, all notori<g ref="char:EOLhyphen"/>ous murders, breaches of quarter, and inhumane cruelties committed of either ſide, may be queſtioned in the ſaid Parliament, if your Majeſty ſo think fit: and ſuch ſhall appear to be guilty to be excepted out of the ſaid Act of Oblivion, and puniſhed according to their deſerts.</p>
+               <p>Foraſmuch Dread Soveraign, as the wayes of our addreſſes unto your Majeſty, for apt remedies unto our grievances were hitherto debarred us, but now at length through your benigne grace and favour laid open: We do humbly preſent theſe in purſuance of the ſaid Remonſtrance; which granted, your ſaid ſubjects are ready to contribute, the ten thouſand men as in their Remonſtrance is ſpecified towards the ſuppreſſing of the unna<g ref="char:EOLhyphen"/>turall rebellion now in this Kingdom, and will further expoſe their lives and fortunes to ſerve your Majeſty, as occaſion ſhall require.</p>
+            </div>
+            <div type="document">
+               <head>Additionall Propoſitions.</head>
+               <p n="1">1. THat an Act be paſſed this next parliament, prohibiting that neither the Lord Deputy, Lord Chancellor, Lord High Treaſurer, Vice-Treaſurer, Chancellor, or any of the Barons of the Exchequer, Privy-Councell, or Judges of the foure Courts, be Farmours of your Majeſties cuſtomes.</p>
+               <p n="2">2. That an Act of Parliament may paſſe in Ireland againſt all Mono<g ref="char:EOLhyphen"/>polies, ſuch as was enacted in England 21. year of King <hi>James,</hi> with a further clauſe for repealing of all Grants of Monopolies in Ireland.</p>
+               <p n="3">3. That the Court of Caſtle-Chamber in Ireland having been an op<g ref="char:EOLhyphen"/>preſſion to the ſubjects, and there being other remedies for the offences queſtioned in that Court by the common Law, and Statutes of th<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r Realm, be taken away; or otherwiſe limited, as both Houſes<g ref="char:punc">▪</g> ſhall thin<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</p>
+               <p n="4">4. That two Acts lately paſſed in Ireland, one prohibiting the plowing with horſes by the tayle, and the other prohibiting the burning of Oates in ſtraw, may be repealed.</p>
+               <p n="5">
+                  <pb n="11" facs="tcp:113189:7"/>5. That it may pleaſe your Majeſty to give order, that upon preſenting the names of three perſons of quality in each County by your ſuppliants, to your chief Governor or Governors, their Patents be paſſed to ſuch of thoſe, ſo to be preſented reſpectively to be Sheriffes in each County, as to be chief Governor or Governors, ſhall ſeem meet to make choice of for that purpoſe.</p>
+               <p n="6">6. That one or more Agents from that Kingdom may be admitted ſtill to attend his Majeſty for his Information of the Affairs of that Kingdom. And that as a teſtimony of his Majeſties favour, ſome of the Nobles and others of quality of that Kingdom, may be imployed about your Maje<g ref="char:EOLhyphen"/>ſties perſon.</p>
+               <p n="7">7. Foraſmuch as divers of the Scotch Nation, and others in Ireland, do not obey the preſent Ceſſation, and many of them having of late ta<g ref="char:EOLhyphen"/>ken the Covenant propoſed by the Members of the Parliament at Weſt<g ref="char:EOLhyphen"/>minſter, now in Arms againſt your Majeſty, it is therfore humbly deſired, that ſuch as diſobey the ſaid Ceſſation, or have taken the ſaid Covenant, be by his Majeſties appointment proclaimed Traitors in Ireland, and pro<g ref="char:EOLhyphen"/>ſecuted accordingly by your Majeſties authority. And that ſuch Counties or Corporations as have not ſubmitted to the now Ceſſation of Arms in that Kingdom, according to your Majeſties Commiſſion, be not admitted to make any return to the Parliament.</p>
+               <p n="8">8. Foraſmuch as ſince the late Commotion in that Kingdom, ſome perſons of quality of his Majeſties Romane Catholick ſubjects dyed, or were killed, and their eſtates by means thereof became waſt, and uſeleſſe. That therfore for the better enabling of that partie to ſerve your Majeſty. It is humbly deſired, that the Wardſhip of their heires, and the manage<g ref="char:EOLhyphen"/>ment of their eſtates, be granted to ſuch as ſhal be accountable to the ſaid heires for the profit of thoſe lands, whereby their lands may be of ſome uſe to the common-wealth, in their contributions to his Majeſties ſervice.</p>
+               <p n="9">9. Foraſmuch as ſundrie perſons eſtated in that Kingdom have either actually raiſed Armes in this Kingdom againſt your Majeſtie, or have otherwiſe adhered to the malignant party now in Arms againſt your Ma<g ref="char:EOLhyphen"/>jeſtie, that therfore it may pleaſe your Majeſtie to give way to the im<g ref="char:EOLhyphen"/>peachment, and Attainder of thoſe, and of ſuch Officers whoſe names we ſhall here repreſent to your Majeſtie by way of Bill in Parliament, wherby they may receive condigne puniſhment for their offences, and your Ma<g ref="char:EOLhyphen"/>jeſtie take advantage of the forfeiture of their eſtates, And in the interim thoſe poſſeſſions to remain in the hands wherein they are at preſent.</p>
+               <p n="10">10. Foraſmuch as upon application of Agents from that Kingdom to
+<pb n="12" facs="tcp:113189:8"/>
+your Majeſtie in the fourth yeer of your Reign, and lately upon humble ſuit made to your Majeſtie by a Committee of both Houſes of the Parlia<g ref="char:EOLhyphen"/>ment of that Kingdom, Order was given by your Majeſtie for redreſſes of ſeverall grievances: It is therfore humblie deſired that for ſo many of thoſe as are not expreſſed in the now Propoſitions preſented to your Ma<g ref="char:EOLhyphen"/>jeſtie (whereof both Houſes in the next enſuing Parliament ſhall deſire the benefit of your Majeſties ſaid former directions for redreſſes) that the ſame be afforded them.</p>
+               <p n="11">11. That the Office of <hi>Admirall</hi> in that Kingdom be ſetled, independant of none but your Majeſtie, whereby Maritine Cauſes may be determined there without driving Merchants or others to appeal, or ſeek Juſtice elſe<g ref="char:EOLhyphen"/>where in thoſe Cauſes.</p>
+            </div>
+            <div type="document">
+               <head>Concerning any thing in Religion, His Majeſties Anſwer is,</head>
+               <p n="1">1. THat as the Laws againſt thoſe of the <hi>Romiſh</hi> Religion within that His Kingdom of <hi>Ireland,</hi> have never been executed with any rigor or ſeverity; So if ſuch his Subjects ſhall by their returning to their dutie and loyaltie, merit His Majeſties favour, and protection, they ſhall not for the future have cauſe to complain, that leſſe moderation is uſed towards them, then hath been in the moſt favourable of Queen <hi>E:</hi> and King <hi>James</hi> his times. Provided, that under pretence of Conſcience, they do not ſtir up Sedition, but live quietly and peaceably according to their Allegiance.</p>
+               <p n="2">2. Touching the calling a free Parliament (by which His Majeſtie ſuppoſes the Propoſers intend a new Parliament) His Majeſtie ſaies that he could wiſh that all the particulars might be fully agreed on, and rati<g ref="char:EOLhyphen"/>fied this Parliament; His Majeſtie well underſtanding, That his Proteſtant Subjects may be in far greater danger in a new Parliament, then the Pro<g ref="char:EOLhyphen"/>poſers and their partie can be in this; His Majeſtie being willing to give them any ſecuritie that can be deſired againſt their apprehenſions. How<g ref="char:EOLhyphen"/>ſoever ſince ſome objections and doubts are raiſed of the legall continu<g ref="char:EOLhyphen"/>ance of this Parliament ſince the death of the Lord Deputie <hi>Wansford,</hi> and by the late arrivall of his Majeſties Commiſſion after the day of meeting, upon the Prorogation (though thoſe doubts may be eaſily ſolved) his Ma<g ref="char:EOLhyphen"/>jeſtie is content to call a new Parliament, upon Condition that all parti<g ref="char:EOLhyphen"/>culars be firſt agreed on, and the Acts to be paſſed be firſt tranſmitted, according to cuſtome (for his Majeſtie will by no means conſent to the ſuſpenſion of <hi>Poynings</hi> Act) and the Propoſers giving his Majeſtie ſecurity, that there ſhall be no attempt in that Parliament to paſſe any other Act then what is agreed on and firſt tranſmitted, or to bring any other preju<g ref="char:EOLhyphen"/>dice
+<pb n="13" facs="tcp:113189:8"/>
+to any of His Majeſties Proteſtant Subjects there.</p>
+               <p n="3">3. His Majeſtie neither can nor will declare Acts in themſelves lawfull to be void, but is well content that neither the Propoſers nor their partie, ſhall ſuffer any prejudice by any Acts or Ordinances paſſed ſince the time in that Propoſition mentioned by reaſon of this commotion, and for that end, ſhall give his full concurrence.</p>
+               <p n="4">4. The matters of the fourth and fifth, and ſixteenth Propoſitions are to be diſgeſted into an Act of Oblivion, in which his Majeſty will admit any clauſes to inlarge his mercy, but will not by declaring indictments legally taken, and regularly proſecuted to be void, give any countenance to, or make any excuſes for the preſent Rebellion, which would be a great prejudice to truth, and the future ſecurity of that Kingdome. And therefore his Majeſty is contented to grant a full and generall Pardon to all perſons whatſoever, within that his Kingdom: (Except) For all Trea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons, Rebellions, or other crimes whatſoever, growing and ariſing from, or by reaſon of the ſaid Rebellion: And will likewiſe give his conſent to ſuch an Act of Oblivion, as ſhall be prepared and tranſmitted to him by the advice of his Lord Lievtenant, and Councell of Ireland, who are fit<g ref="char:EOLhyphen"/>teſt to conſider in what ſtate debts are to be left, and particular Actions and Remedies to be waved. In which his Majeſty for the peace of the Kingdome, will be content to releaſe what concernes himſelfe.</p>
+               <p n="6">6. When all other things ſhall be agreed on, and faithfully executed on the parts of the Propoſers, his Majeſty (excepting a juſt acknowledge<g ref="char:EOLhyphen"/>ment of his bounty, as well knowing that he parts with very much, to which he hath a legall and undoubted title) Is content to releaſe and ac<g ref="char:EOLhyphen"/>quit his right to all ſuch lands in the Counties mentioned (except in the Counties of Kilkenny and Wiekloe, upon the termes formerly aſſented to by his Majeſty, in his anſwer to the grievances in the 17 year of his raign, and will conſent to ſuch an Act of Limitations as is deſired.</p>
+               <p n="7">7. When all other things ſhal be concluded, his Majeſty will conſent to an Act for the taking away any incapacity, as Natives either to Lands or Offices, if any ſuch there be And will willingly conſent to the erecting an Inne of Court, Vniverſity, or Free-ſchooles; provided that they be gover<g ref="char:EOLhyphen"/>ned by ſuch Statutes, Rules, and Orders, as his Majeſty ſhall approve, and agreeable to the cuſtome of this Kingdome.</p>
+               <p n="8">8. Such of his Majeſties ſubjects of the Romiſh Religion within that Kingdome, as ſhall manifeſt their duty and affection to his Majeſty, ſhall receive ſuch marks of his Majeſties favour in Offices and places of truſt, as ſhall manifeſt his Majeſties good acceptance and regard of them.</p>
+               <p n="9">
+                  <pb facs="tcp:113189:9"/>9. His Majeſty will take care that his good ſubjects of that Kingdom ſhall not be oppreſſed by his Court of Wards; And if oppreſſion <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> kind have been upon good and due information, His Majeſty <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Juſtice to be done for the time paſt, and for the future will prevent <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> by inſtructions; But for the taking away of that Court, his Majeſty <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> make no anſwer, till the particulars for his ſatisfaction, be ſet down and preſented to him.</p>
+               <p n="10">10. His Majeſty conſented as farre as is fit for him in this point <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> his anſwer to the 25th grievance in the 17th yeare of his Raign, the <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> he is ſtill willing ſhall be enacted, looking forward ſtill to five yeares, <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> begin after the peace, concluded.</p>
+               <p n="11">11. His Majeſty conceives the ſubſtance of this Propoſition (which con<g ref="char:EOLhyphen"/>cernes the fundamentall rights of both Kingdomes) fit to be referred to the free debate and expoſtulation of the two Parliaments, when it ſh<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> pleaſe God that they may freely and ſafely ſit. His Majeſty being ſo equal<g ref="char:EOLhyphen"/>ly concerned in the prviledges of either, that he will take care to the ut<g ref="char:EOLhyphen"/>moſt of his power that they ſhall both contain themſelves within t<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> proper limits, His Majeſty being the Head, and equally interreſſed in <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Rights of both Parliaments.</p>
+               <p n="12">12. This is ſufficiently provided for in his Majeſties Anſwer to the tenth grievance, which he is content ſhall paſſe.</p>
+               <p n="13">13. Since it appeares by long experience, that their Lawes have not produced that good effect, for which they were made: His Majeſty <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> graciouſly pleaſed by his late Graces, that thoſe Statutes ſhould be <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>led, ſave onely for Wools, and Wool-fells; and will obſerve the ſame <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>lution. And a book of Rates ſhall be ſetled by indifferent Commiſſ<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </p>
+               <p n="14">14. His Majeſty doth not admit that the long continuance of th<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Governours of the Kingdome in that place, hath been an occ<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> much tyranny and oppreſſion, or that any tyranny and oppreſſion <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> been exerciſed upon his ſubjects of that Kingdome: However his Majeſty will take care that ſuch Governours ſhall not continue longer in th<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> places, then he ſhall find for the good of his people there. And is c<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that they ſhall be inhibited to make any purchaſe (other then by <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> for the proviſion of their houſes) during the time of their govern<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſuch manner as is deſired.</p>
+               <p n="15">15. This Propoſition is to be explained, and ſome particular wa<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> be propoſed to his Majeſty, for the doing hereof. And this his Majeſt<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> on due conſideration of the ſafety and ſecurity of his Proteſtant ſu<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> will return his Anſwer.</p>
+               <p n="16">16. Anſwered the 4th and 5th. Such perſons who ſhall be excepted out of the act of oblivion, ſhall be tryed by the known lawes of the land.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
